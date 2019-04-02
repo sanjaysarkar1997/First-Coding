@@ -13,3 +13,9 @@ I am start to learn git for the first time
  
  I am loving it
  
+ 
+ where is the changes
+
+
+I can't find them easily
+Where it goes please tell me
